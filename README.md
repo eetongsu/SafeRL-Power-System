@@ -91,6 +91,13 @@ PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
 - PowerSimulationsDynamics.jl: [PowerSimulationsDynamics. jl--An Open Source Modeling Package for Modern Power Systems with Inverter-Based Resources](https://arxiv.org/abs/2308.02921)
 - Dyna$\omega$o: [Towards an open-source solution using Modelica for time-domain simulation of power systems](https://ieeexplore.ieee.org/abstract/document/8571872/?casa_token=uqtVkIPWN_8AAAAA:HDaSKMco_AhA5ttrBxiqTNRG8_kIJInOFQsgZ-DOJcffV4YUCW5b1VJDXlnJNJ2IrK4zazKdaw)
 
+#### 2.3 Tailored Benchmarks for Power System
+
+- OMG: [OMG: A scalable and flexible simulation and testing environment toolbox for intelligent microgrid control](https://joss.theoj.org/papers/10.21105/joss.02435.pdf)
+- RLGC: [RLGC](https://github.com/RLGC-Project/RLGC), [Adaptive power system emergency control using deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8787888/?casa_token=N1wqcnPRslEAAAAA:DTCT5V8fVXD84c3Oo5qE46JSiEPNZoUWStYyWpQnaYw4Tr7MjPnfdvbVPQcOcUj6swvNiQYobg)
+- PowerGym: [Powergym: A reinforcement learning environment for volt-var control in power distribution systems](https://proceedings.mlr.press/v168/fan22a.html)
+- OPF-Gym: [OPF-Gym](https://github.com/Digitalized-Energy-Systems/opfgym), [Learning the optimal power flow: Environment design matters](https://www.sciencedirect.com/science/article/pii/S2666546824000764)
+- CommonPower: [CommonPower](https://github.com/TUMcps/commonpower), [CommonPower: Supercharging Machine Learning for Smart Grids](https://ui.adsabs.harvard.edu/abs/2024arXiv240603231E/abstract)
 
 ## Publication
 
