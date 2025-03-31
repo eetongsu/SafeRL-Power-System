@@ -69,12 +69,6 @@ The README is organized as follows:
 - [Safe-Policy-Optimization(SafePO)](https://github.com/PKU-Alignment/Safe-Policy-Optimization)
 - [OmniSafe](https://github.com/PKU-Alignment/omnisafe)
 
-- [AI Safety Gridworlds](https://github.com/deepmind/ai-safety-gridworlds)https://ieeexplore.ieee.org/abstract/document/6039829/)
-- [Safety-Gym](https://github.com/openai/safety-gym)
-- [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium)
-- [Safe-Policy-Optimization(SafePO)](https://github.com/PKU-Alignment/Safe-Policy-Optimization)
-- [OmniSafe](https://github.com/PKU-Alignment/omnisafe)
-
 #### 2.2 Power System Benchmark Software
 
 ##### 2.2.1 Commercial Software
