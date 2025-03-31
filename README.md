@@ -99,6 +99,64 @@ PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
 - OPF-Gym: [OPF-Gym](https://github.com/Digitalized-Energy-Systems/opfgym), [Learning the optimal power flow: Environment design matters](https://www.sciencedirect.com/science/article/pii/S2666546824000764)
 - CommonPower: [CommonPower](https://github.com/TUMcps/commonpower), [CommonPower: Supercharging Machine Learning for Smart Grids](https://ui.adsabs.harvard.edu/abs/2024arXiv240603231E/abstract)
 
+### 3 Power System Applications of Safe RL
+
+#### 3.1 Security Control
+
+
+
+##### 3.1.1 Voltage Control
+
+
+
+##### 3.1.2 Stability Control
+
+
+
+#### 3.2 Real-Time Operation
+
+
+
+##### 3.2.1 Economic Dispatch
+
+
+
+
+
+##### 3.2.2 System Restoration
+
+
+
+
+
+#### 3.3 Operational Planning
+
+##### 3.3.1 Unit Commitment
+
+
+
+##### 3.3.2 Electricity Market
+
+
+
+
+
+#### 3.4 Emerging Areas
+
+##### 3.4.1 EV Charging
+
+
+
+
+
+##### 3.4.2 Building Energy Management
+
+
+
+
+
+
+
 ## Publication
 
 If you find the repository useful, please cite the [paper](https://arxiv.org/abs/2205.10330):
