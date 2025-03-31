@@ -83,7 +83,7 @@ PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
 
 - OMG: [OMG: A scalable and flexible simulation and testing environment toolbox for intelligent microgrid control](https://joss.theoj.org/papers/10.21105/joss.02435.pdf)
 - RLGC: [RLGC](https://github.com/RLGC-Project/RLGC), [Adaptive power system emergency control using deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8787888/?casa_token=N1wqcnPRslEAAAAA:DTCT5V8fVXD84c3Oo5qE46JSiEPNZoUWStYyWpQnaYw4Tr7MjPnfdvbVPQcOcUj6swvNiQYobg)
-- PowerGym: [Powergym: A reinforcement learning environment for volt-var control in power distribution systems](https://proceedings.mlr.press/v168/fan22a.html)
+- PowerGym: [PowerGym: A reinforcement learning environment for volt-var control in power distribution systems](https://proceedings.mlr.press/v168/fan22a.html)
 - OPF-Gym: [OPF-Gym](https://github.com/Digitalized-Energy-Systems/opfgym), [Learning the optimal power flow: Environment design matters](https://www.sciencedirect.com/science/article/pii/S2666546824000764)
 - CommonPower: [CommonPower](https://github.com/TUMcps/commonpower), [CommonPower: Supercharging Machine Learning for Smart Grids](https://ui.adsabs.harvard.edu/abs/2024arXiv240603231E/abstract)
 
@@ -91,59 +91,88 @@ PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
 
 #### 3.1 Security Control
 
-
-
 ##### 3.1.1 Voltage Control
 
-
+- [Data driven decentralized control of inverter based renewable energy sources using safe guaranteed multi-agent deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10354415/)
+- [Multi-agent safe graph reinforcement learning for PV inverters-based real-time decentralized volt/var control in zoned distribution networks](https://ieeexplore.ieee.org/abstract/document/10128717/)
+- [Two-stage deep reinforcement learning for inverter-based volt-var control in active distribution networks](https://ieeexplore.ieee.org/abstract/document/9274529/)
+- [Safe off-policy deep reinforcement learning algorithm for volt-var control in power distribution systems](https://ieeexplore.ieee.org/abstract/document/8944292/)
+- [Volt-var control in power distribution systems with deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8909741/)
+- [Decentralized safe reinforcement learning for inverter-based voltage control](https://www.sciencedirect.com/science/article/pii/S037877962200685X)
+- [Stability constrained reinforcement learning for real-time voltage control](https://ieeexplore.ieee.org/abstract/document/9867476/)
+- [Physics-shielded multi-agent deep reinforcement learning for safe active voltage control with photovoltaic/battery energy storage systems](https://ieeexplore.ieee.org/abstract/document/9983850/)
+- [Model-augmented safe reinforcement learning for Volt-VAR control in power distribution networks](https://www.sciencedirect.com/science/article/pii/S0306261922002148)
+- [Online multi-agent reinforcement learning for decentralized inverter-based volt-var control](https://ieeexplore.ieee.org/abstract/document/9356806/)
+- [SAVER: Safe learning-based controller for real-time voltage regulation](https://ieeexplore.ieee.org/abstract/document/9917098/)
+- [DNN assisted projection based deep reinforcement learning for safe control of distribution grids](https://ieeexplore.ieee.org/abstract/document/10334044/)
+- [Safe deep reinforcement learning-based constrained optimal control scheme for active distribution networks](https://www.sciencedirect.com/science/article/pii/S0306261920302841)
+- [Safe multi-agent deep reinforcement learning for real-time decentralized control of inverter based renewable energy resources considering communication delay](https://www.sciencedirect.com/science/article/pii/S0306261923010127)
+- [Three-stage inverter-based peak shaving and Volt-VAR control in active distribution networks using online safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9754695/)
+- [Safety Deep Reinforcement Learning Approach to Voltage Control in Flexible Network Topologies](https://ieeexplore.ieee.org/abstract/document/10595220/)
+- [Explicit Reinforcement Learning Safety Layer for Computationally Efficient Inverter-Based Voltage Regulation](https://ieeexplore.ieee.org/abstract/document/10156201/)
 
 ##### 3.1.2 Stability Control
 
-
+- [Reinforcement learning for optimal primary frequency control: A Lyapunov approach](https://ieeexplore.ieee.org/abstract/document/9779512/)
+- [Online preventive control for transmission overload relief using safe reinforcement learning with enhanced spatial-temporal awareness](https://ieeexplore.ieee.org/abstract/document/10070802/)
+- [Barrier function-based safe reinforcement learning for emergency control of power systems](https://ieeexplore.ieee.org/abstract/document/9683573/)
+- [Bridging transient and steady-state performance in voltage control: A reinforcement learning approach with safe gradient flow](https://ieeexplore.ieee.org/abstract/document/10163934/)
+- [Deep reinforcement learning-based active network management and emergency load-shedding control for power systems](https://ieeexplore.ieee.org/abstract/document/10210687/)
+- [A safe policy learning-based method for decentralized and economic frequency control in isolated networked-microgrid systems](https://ieeexplore.ieee.org/abstract/document/9783051/)
+- [AdapSafe: Adaptive and safe-certified deep reinforcement learning-based frequency control for carbon-neutral power systems](https://ojs.aaai.org/index.php/AAAI/article/view/25660)
+- [Computationally efficient safe reinforcement learning for power systems](https://ieeexplore.ieee.org/abstract/document/9867652/)
+- [Coordinated frequency control through safe reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9916894/)
+- [Coordinated wide-area damping control using deep neural networks and reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9463673/)
+- [Risk-constrained reinforcement learning for inverter-dominated power system controls](https://ieeexplore.ieee.org/abstract/document/10363432/)
+- [Safe reinforcement learning for mitigation of model errors in facts setpoint control](https://ieeexplore.ieee.org/abstract/document/10257365/)
+- [Stability-certified reinforcement learning: A control-theoretic perspective](https://ieeexplore.ieee.org/abstract/document/9296215/)
+- [Recurrent neural network controllers synthesis with stability guarantees for partially observed systems](https://ojs.aaai.org/index.php/AAAI/article/view/20476)
+- [A barrier-certificated reinforcement learning approach for enhancing power system transient stability](https://ieeexplore.ieee.org/abstract/document/10005839/)
 
 #### 3.2 Real-Time Operation
 
-
-
 ##### 3.2.1 Economic Dispatch
 
-
-
-
+- [Learning to operate distribution networks with safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9680706/)
+- [Multi-agent safe policy learning for power management of networked microgrids](https://ieeexplore.ieee.org/abstract/document/9244070/)
+- [Safe deep reinforcement learning for microgrid energy management in distribution networks with leveraged spatial–temporal perception](https://ieeexplore.ieee.org/abstract/document/10040615/)
+- [Model-free economic dispatch for virtual power plants: An adversarial safe reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/10163055/)
+- [A hybrid data-driven method for fast solution of security-constrained optimal power flow](https://ieeexplore.ieee.org/abstract/document/9709643/)
+- [Robust energy management system with safe reinforcement learning using short-horizon forecasts](https://ieeexplore.ieee.org/abstract/document/10029882/)
+- [Constrained reinforcement learning for predictive control in real-time stochastic dynamic optimal power flow](https://ieeexplore.ieee.org/abstract/document/10288542/)
+- [Online operational decision-making for integrated electric-gas systems with safe reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10266735/)
+- [Real-time sequential security-constrained optimal power flow: A hybrid knowledge-data-driven reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/10086621/)
+- 
 
 ##### 3.2.2 System Restoration
 
-
-
-
+- 
 
 #### 3.3 Operational Planning
 
 ##### 3.3.1 Unit Commitment
 
-
+- 
 
 ##### 3.3.2 Electricity Market
 
-
-
-
+- 
 
 #### 3.4 Emerging Areas
 
 ##### 3.4.1 EV Charging
 
-
-
-
+- 
 
 ##### 3.4.2 Building Energy Management
 
+- 
 
+### 4 Real-World Deployment Cases
 
-
-
-
+- GT Auto Tuner: [GT Auto Tuner](https://www.siemens-energy.com/global/en/home/products-services/service/gt-autotuner.html)
+- Building Cooling Systems: [Google](https://www.technologyreview.com/2018/08/17/140987/google-just-gave-control-over-data-center-cooling-to-an-ai/), [DeepMind](https://deepmind.google/discover/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/), [Controlling commercial cooling systems using reinforcement learning](https://arxiv.org/abs/2211.07357), [TELUS and Vector Institute](https://www.telus.com/en/about/news-and-events/media-releases/using-ai-for-good-telus-and-vector-institute-partner-to-reduce-climate-impacts-from-data-centres), [SAB](https://techblog.foobot.io/hvac/control/ai/reinforcement_learning/sab_after_9.html)
+- DeepThermal: [Deepthermal: Combustion optimization for thermal power generating units using offline reinforcement learning](https://ojs.aaai.org/index.php/AAAI/article/view/20393)
 
 ## Publication
 
