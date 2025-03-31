@@ -7,29 +7,17 @@ If any authors prefer not to have their paper listed here, please feel free to c
 
 The README is organized as follows:
 
-- [Safe-Reinforcement-Learning-Baselines](#safe-reinforcement-learning-baselines)
-  * [1. Environments Supported](#1-environments-supported)
-    + [1.1. Safe Single Agent RL benchmarks](#11-safe-single-agent-rl-benchmarks)
-    + [1.2. Safe Multi-Agent RL benchmarks](#12-safe-multi-agent-rl-benchmarks)
-  * [2. Safe RL Baselines](#2-safe-rl-baselines)
-    + [2.1. Safe Single Agent RL Baselines](#21-safe-single-agent-rl-baselines)
-    + [2.2. Safe Multi-Agent RL Baselines](#22-safe-multi-agent-rl-baselines)
-  * [3. Surveys](#3-surveys)
-  * [4. Theses](#4-theses)
-  * [5. Book](#5-book)
-  * [6. Tutorials](#6-tutorials)
-  * [7. Exercise](#7-exercise)
-- [Publication](#publication)
+[TOC]
 
 ***
 
-### 1. RL/DRL/Safe RL
+### 1. RL/DRL/Safe RL Base
 
 #### 1.1 General Safe RL Repositories
 
 - [Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines)
 
-#### 1.1 General RL/DRL Review
+#### 1.2 General RL/DRL Review
 
 - [Deep reinforcement learning for multiagent systems: A review of challenges, solutions, and applications](https://ieeexplore.ieee.org/abstract/document/9043893/?casa_token=MUfVRZZDuqMAAAAA:nYToDbcPxdRl1zZEsuMr-d0PhskJ8zJzN-KZtcX8kXjDsZtfxs4VNABxTuWgg5eg-mFmvf3vqQ)
 - [Deep reinforcement learning: An overview](https://arxiv.org/abs/1701.07274)
@@ -40,7 +28,7 @@ The README is organized as follows:
 - [Robust reinforcement learning: A review of foundations and recent advances](https://www.mdpi.com/2504-4990/4/1/13)
 - [A survey on offline reinforcement learning: Taxonomy, review, and open problems](https://ieeexplore.ieee.org/abstract/document/10078377/)
 
-#### 1.2 RL Review for Power System
+#### 1.3 RL Review for Power System
 
 - [Deep reinforcement learning for smart grid operations: Algorithms, applications, and prospects](https://ieeexplore.ieee.org/abstract/document/10241311/?casa_token=HZkAHAVjhS4AAAAA:HJDUP9G8e9Fq41siTq7jr4vIME3zlpF9CZ-rAqPs3NEZGp1chby59zoyPsS4VlLmrt3SDLKzcg)
 - [Reinforcement learning for selective key applications in power systems: Recent advances and future challenges](https://ieeexplore.ieee.org/abstract/document/9721402/?casa_token=qvowa2ac1jUAAAAA:z6MXCDEOftlwoA0au4x1vE0vlR7hQASgC8wnCnqijfq44XiKeVbWuJRAPaIGNQWRodw08JJhZg)
@@ -48,7 +36,7 @@ The README is organized as follows:
 - [(Deep) reinforcement learning for electric power system control and related problems: A short review and perspectives](https://www.sciencedirect.com/science/article/pii/S1367578819301014)
 - [Reinforcement learning and its applications in modern power and energy systems: A review](https://ieeexplore.ieee.org/abstract/document/9275593/)
 
-#### 1.2 General Safe RL Review
+#### 1.4 General Safe RL Review
 
 - [A review of safe reinforcement learning: Methods, theories and applications](https://ieeexplore.ieee.org/abstract/document/10675394/?casa_token=Q9b8DqdGIAQAAAAA:SsfuqUQFEdVttZf65gOfzM77lwbN9siTrafeEl9HhFdKB32kmNgQmfMtWL4QUPkdBauocSRwjA)
 - [A comprehensive survey on safe reinforcement learning](https://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf)
