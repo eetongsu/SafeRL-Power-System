@@ -50,7 +50,6 @@ The README is organized as follows:
 - [AI Safety Gridworlds](https://github.com/deepmind/ai-safety-gridworlds)
 - [Safety-Gym](https://github.com/openai/safety-gym)
 - [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium)
-
 - [Safe Multi-Agent Mujoco](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco)
 - [Safe Multi-Agent Isaac Gym](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)
 - [Safe Multi-Agent Robosuite](https://github.com/chauncygu/Safe-Multi-Agent-Robosuite)
