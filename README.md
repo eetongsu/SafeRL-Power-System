@@ -1,7 +1,7 @@
 # SafeRL-Power-System
 The repository is for Safe Reinforcement Learning (RL) in power system applications, based on the paper *A Review of Safe Reinforcement Learning Methods for Modern Power Systems*, where we explore various safe RL baselines, benchmarks, applications, and real-world deployments. 
 
-If any authors prefer not to have their paper listed here, please feel free to contact [tongsu@uconn.edu](mailto:tongsu@uconn.edu). (This repository is under active development. We welcome and appreciate any constructive comments and suggestions.)
+If any papers are missing from this list, or if any authors prefer not to have their work included here, please feel free to contact [tongsu@uconn.edu](mailto:tongsu@uconn.edu). (This repository is under active development. We welcome and appreciate any constructive comments and suggestions.)
 
 ***
 
