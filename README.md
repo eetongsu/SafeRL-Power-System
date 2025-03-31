@@ -7,7 +7,36 @@ If any authors prefer not to have their paper listed here, please feel free to c
 
 The README is organized as follows:
 
-[TOC]
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+   * [1. RL/DRL/Safe RL Base](#1-rldrlsafe-rl-base)
+      + [1.1 General Safe RL Repositories](#11-general-safe-rl-repositories)
+      + [1.2 General RL/DRL Review](#12-general-rldrl-review)
+      + [1.3 RL Review for Power System](#13-rl-review-for-power-system)
+      + [1.4 General Safe RL Review](#14-general-safe-rl-review)
+   * [2. Benchmark Environments, Algorithms, and Software](#2-benchmark-environments-algorithms-and-software)
+      + [2.1. General Benchmark Environments and Algorithms](#21-general-benchmark-environments-and-algorithms)
+      + [2.2 Power System Benchmark Software](#22-power-system-benchmark-software)
+         - [2.2.1 Commercial Software](#221-commercial-software)
+         - [2.2.2 Open-Source and Free Software](#222-open-source-and-free-software)
+      + [2.3 Tailored Benchmarks for Power System](#23-tailored-benchmarks-for-power-system)
+   * [3 Power System Applications of Safe RL](#3-power-system-applications-of-safe-rl)
+      + [3.1 Security Control](#31-security-control)
+         - [3.1.1 Voltage Control](#311-voltage-control)
+         - [3.1.2 Stability Control](#312-stability-control)
+      + [3.2 Real-Time Operation](#32-real-time-operation)
+         - [3.2.1 Economic Dispatch](#321-economic-dispatch)
+         - [3.2.2 System Restoration](#322-system-restoration)
+      + [3.3 Operational Planning](#33-operational-planning)
+         - [3.3.1 Unit Commitment](#331-unit-commitment)
+         - [3.3.2 Electricity Market](#332-electricity-market)
+      + [3.4 Emerging Areas](#34-emerging-areas)
+         - [3.4.1 EV Charging](#341-ev-charging)
+         - [3.4.2 Building Energy Management](#342-building-energy-management)
+   * [4 Real-World Deployment Cases](#4-real-world-deployment-cases)
+- [Publication](#publication)
+
+<!-- TOC end -->
 
 ***
 
