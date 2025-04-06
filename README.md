@@ -156,6 +156,7 @@ PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
 - [Stability-certified reinforcement learning: A control-theoretic perspective](https://ieeexplore.ieee.org/abstract/document/9296215/)
 - [Recurrent neural network controllers synthesis with stability guarantees for partially observed systems](https://ojs.aaai.org/index.php/AAAI/article/view/20476)
 - [A barrier-certificated reinforcement learning approach for enhancing power system transient stability](https://ieeexplore.ieee.org/abstract/document/10005839/)
+- [Reinforcement learning for stability-guaranteed adaptive optimal primary frequency control of power systems using partially monotonic neural networks](https://ieeexplore.ieee.org/abstract/document/10947581/)
 
 #### 3.2 Real-Time Operation
 
