@@ -89,7 +89,14 @@ The README is organized as follows:
 
 ##### 2.2.1 Commercial Software
 
-PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
+- PSSE: [Website](https://www.siemens.com/us/en/products/energy/grid-software/planning/pss-software/pss-e.html), [Python interface for state estimation](https://github.com/SajjadAsefi/PSSE), [Python interface for dynamic simulation 1](https://github.com/gajduk/vehicle2grid-dynamic-simulation-PSSE), [Python interface for dynamic simulation 2](https://github.com/TanBendong/PSSE-Python-Code), 
+- PowerFactory: [Website](https://www.digsilent.de/en/), [Python interface](https://github.com/susantoj/powerfactory_python)
+- PowerWorld: [Website](https://www.powerworld.com/), [WebHelp](https://www.powerworld.com/WebHelp/), [Python interface-ESA](https://github.com/mzy2240/ESA)
+- EMTP: [Website](https://www.emtp.com/), [Manual](https://www.emtp.com/documentation/emtp-user-manual)
+- ETAP: [Website](https://etap.com/)
+- RTDS: [Website](https://www.rtds.com/)
+- Simscape: [Website](https://www.mathworks.com/products/simscape.html)
+- PSCAD: [Website](https://www.pscad.com/), [Course-Python-PSCAD](https://github.com/jsacostas/Course-Python-PSCAD)
 
 ##### 2.2.2 Open-Source and Free Software
 
@@ -100,7 +107,7 @@ PSSE, PowerFactory, PowerWorld, EMTP, ETAP, RTDS, Simscape, and PSCAD
 - PyPSA: [PyPSA: Python for power system analysis](https://arxiv.org/abs/1707.09913)
 - PowerModels: [Powermodels. jl: An open-source framework for exploring power flow formulations](https://ieeexplore.ieee.org/abstract/document/8442948/?casa_token=qdWK1uJN4q8AAAAA:CiqLt6HF3T0C33gm1w3eQgCY4q57P-BsWIshBsk7xLeYkoVtMtb1qRGYvCtMAzk5Je8-zGvWXA)
 - PST: [A toolbox for power system dynamics and control engineering education and research](https://ieeexplore.ieee.org/abstract/document/207380/?casa_token=K8sL3ZOTVzAAAAAA:EGDFZaVmpuRHe4NimGnUerFpOnBMWoQzs1HsttRJmXaymJsDXmJi-dVHtkhiYCrpcdVf_tE3xw), [Software and Manual](https://sites.ecse.rpi.edu/~chowj/)
-- PSAT: [An open source power system analysis toolbox](https://ieeexplore.ieee.org/abstract/document/1490569/?casa_token=q8slDw_b5LcAAAAA:FuVgexHv3Udh9MKmOT7Z2n5RHQo0mm_M1NHI3366Xlc0sYvKqiO_eHdy8ZJbnqZO-Olhvm9SzQ)
+- PSAT: [An open source power system analysis toolbox](https://ieeexplore.ieee.org/abstract/document/1490569/?casa_token=q8slDw_b5LcAAAAA:FuVgexHv3Udh9MKmOT7Z2n5RHQo0mm_M1NHI3366Xlc0sYvKqiO_eHdy8ZJbnqZO-Olhvm9SzQ), [Software and Manual](http://faraday1.ucd.ie/psat.html)
 - PowerSimulations.jl: [PowerSystems. jl—A power system data management package for large scale modeling](https://www.sciencedirect.com/science/article/pii/S2352711021000765)
 - PowerModelsDistribution.jl: [PowerModelsDistribution. jl: An open-source framework for exploring distribution power flow formulations](https://www.sciencedirect.com/science/article/pii/S0378779620304673)
 - ANDES: [Hybrid symbolic-numeric framework for power system modeling and analysis](https://ieeexplore.ieee.org/abstract/document/9169830/?casa_token=nRHVqqx1u4AAAAAA:7GgeMu3A5-dV1rve_CGQmEQD9UZ9d0-d0Mq5dnEeR68lu0_Y0tP3HU070NBkXPP3_NLA4VCNhg)
