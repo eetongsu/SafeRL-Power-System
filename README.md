@@ -101,17 +101,17 @@ The README is organized as follows:
 ##### 2.2.2 Open-Source and Free Software
 
 - OpenDSS: [An open source platform for collaborating on smart grid research](https://ieeexplore.ieee.org/abstract/document/6039829/)
-- GridLAB-D: [GridLAB‐D: an agent‐based simulation framework for smart grids](https://onlinelibrary.wiley.com/doi/abs/10.1155/2014/492320)
+- GridLAB-D: [GridLAB-D: an agent-based simulation framework for smart grids](https://onlinelibrary.wiley.com/doi/abs/10.1155/2014/492320)
 - MATPOWER: [MATPOWER: Steady-state operations, planning, and analysis tools for power systems research and education](https://ieeexplore.ieee.org/abstract/document/5491276/?casa_token=bIrTPAgUO_cAAAAA:bKA5si00XcOPxfttZKlAqqxdD0ElFaX0vkNFJnYJ8DEnVejU0rtf5iQg2tJBCDZIt4pjHre5pQ)
 - Pandapower: [Pandapower—an open-source python tool for convenient modeling, analysis, and optimization of electric power systems](https://ieeexplore.ieee.org/abstract/document/8344496/?casa_token=aftkjfBp4tgAAAAA:0sjrceRyDQC-Q71GWl44MJlTN44YbSfUzXo4j1D5VNLdkIf3WjsoQ8EiNcgYB8osUEaOzdBxAQ)
 - PyPSA: [PyPSA: Python for power system analysis](https://arxiv.org/abs/1707.09913)
 - PowerModels: [Powermodels.jl: An open-source framework for exploring power flow formulations](https://ieeexplore.ieee.org/abstract/document/8442948/?casa_token=qdWK1uJN4q8AAAAA:CiqLt6HF3T0C33gm1w3eQgCY4q57P-BsWIshBsk7xLeYkoVtMtb1qRGYvCtMAzk5Je8-zGvWXA)
-- PST: [A toolbox for power system dynamics and control engineering education and research](https://ieeexplore.ieee.org/abstract/document/207380/?casa_token=K8sL3ZOTVzAAAAAA:EGDFZaVmpuRHe4NimGnUerFpOnBMWoQzs1HsttRJmXaymJsDXmJi-dVHtkhiYCrpcdVf_tE3xw), [Software and Manual](https://sites.ecse.rpi.edu/~chowj/)
-- PSAT: [An open source power system analysis toolbox](https://ieeexplore.ieee.org/abstract/document/1490569/?casa_token=q8slDw_b5LcAAAAA:FuVgexHv3Udh9MKmOT7Z2n5RHQo0mm_M1NHI3366Xlc0sYvKqiO_eHdy8ZJbnqZO-Olhvm9SzQ), [Software and Manual](http://faraday1.ucd.ie/psat.html)
+- PST: [A toolbox for power system dynamics and control engineering education and research](https://ieeexplore.ieee.org/abstract/document/207380/?casa_token=K8sL3ZOTVzAAAAAA:EGDFZaVmpuRHe4NimGnUerFpOnBMWoQzs1HsttRJmXaymJsDXmJi-dVHtkhiYCrpcdVf_tE3xw), [Software and manual](https://sites.ecse.rpi.edu/~chowj/)
+- PSAT: [An open source power system analysis toolbox](https://ieeexplore.ieee.org/abstract/document/1490569/?casa_token=q8slDw_b5LcAAAAA:FuVgexHv3Udh9MKmOT7Z2n5RHQo0mm_M1NHI3366Xlc0sYvKqiO_eHdy8ZJbnqZO-Olhvm9SzQ), [Software and manual](http://faraday1.ucd.ie/psat.html)
 - PowerSimulations.jl: [PowerSystems.jl—A power system data management package for large scale modeling](https://www.sciencedirect.com/science/article/pii/S2352711021000765)
 - PowerModelsDistribution.jl: [PowerModelsDistribution.jl: An open-source framework for exploring distribution power flow formulations](https://www.sciencedirect.com/science/article/pii/S0378779620304673)
 - ANDES: [Hybrid symbolic-numeric framework for power system modeling and analysis](https://ieeexplore.ieee.org/abstract/document/9169830/?casa_token=nRHVqqx1u4AAAAAA:7GgeMu3A5-dV1rve_CGQmEQD9UZ9d0-d0Mq5dnEeR68lu0_Y0tP3HU070NBkXPP3_NLA4VCNhg)
-- PowerSimulationsDynamics.jl: [PowerSimulationsDynamics.jl--An Open Source Modeling Package for Modern Power Systems with Inverter-Based Resources](https://arxiv.org/abs/2308.02921)
+- PowerSimulationsDynamics.jl: [PowerSimulationsDynamics.jl-An open source modeling package for modern power systems with inverter-based resources](https://arxiv.org/abs/2308.02921)
 - Dynaωo: [Towards an open-source solution using Modelica for time-domain simulation of power systems](https://ieeexplore.ieee.org/abstract/document/8571872/?casa_token=uqtVkIPWN_8AAAAA:HDaSKMco_AhA5ttrBxiqTNRG8_kIJInOFQsgZ-DOJcffV4YUCW5b1VJDXlnJNJ2IrK4zazKdaw)
 
 #### 2.3 Tailored Benchmarks for Power System
