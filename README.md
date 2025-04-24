@@ -190,6 +190,7 @@ The README is organized as follows:
 - [Real-time optimal power flow: A Lagrangian based deep reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/9069289/?casa_token=fE7a-o9qpd8AAAAA:MjFu8muUoToo1xbcrFz_g91IITLBdEO9gkOa0R3odsXRt6S79oJMpmPOwvRY0E-bdNTJfhos_g)
 - [Safe reinforcement learning for multi-energy management systems with known constraint functions](https://www.sciencedirect.com/science/article/pii/S2666546822000738)
 - [Secure energy management of multi-energy microgrid: A physical-informed safe reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S030626192300123X)
+- [Safe multi-agent deep reinforcement learning for decentralized low-carbon operation in active distribution networks and multi-microgrids](https://www.sciencedirect.com/science/article/pii/S0306261925003393?casa_token=IEtnf2pY2HkAAAAA:xqP0PREPFaZPq4a0x8O2y2RjmGvC9vE9rpYYHSwLcEIJX9bdiS8lKdh-jOZOlOWlfdBBpkd45DI)
 
 ##### 3.2.2 System Restoration
 
