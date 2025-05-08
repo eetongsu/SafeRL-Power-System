@@ -179,70 +179,71 @@ The README is organized as follows:
 - [Online operational decision-making for integrated electric-gas systems with safe reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10266735/)
 - [Real-time sequential security-constrained optimal power flow: A hybrid knowledge-data-driven reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/10086621/)
 - [Online microgrid energy management based on safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9659545/)
-- [Distributed economic dispatch in microgrids based on cooperative reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8306311/?casa_token=QOsHKuiH3MgAAAAA:QikOG6WnKh4bzkOgpMW32GCTpuVh3LezHRhh2W1ckVboyhAo0-eddnhZCQTmVRjURtyUsRFe1Q)
-- [Lyapunov-based safe reinforcement learning for microgrid energy management](https://ieeexplore.ieee.org/abstract/document/10795439/?casa_token=WEUWKCjis8QAAAAA:UEu84yDZ7nrTo05O-4yfTL8cgjLBDCKFkFlssi8TIkatpxBXiHiEOnQcXSaH5g62srhthcBvAQ)
-- [Real-time optimal power flow method via safe deep reinforcement learning based on primal-dual and prior knowledge guidance](https://ieeexplore.ieee.org/abstract/document/10510660/?casa_token=_vdzwCQwhT8AAAAA:XagSCZYmb3YYgdtRObc8WAnIFLctk9LY4QnjAUVPDSIk6-zHh9VpMhAua4ZjDroFmQkSxUCaSA)
-- [Feasibility constrained online calculation for real-time optimal power flow: A convex constrained deep reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/9944164/?casa_token=7dVSub-rRRkAAAAA:Y47uVdUjU-8iaPlNsp40yKzfs0IlGWlqcePOXTKfUIqzcHOXznNnFT1DbbVOfly5IJG9FqaMBw)
+- [Distributed economic dispatch in microgrids based on cooperative reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8306311)
+- [Lyapunov-based safe reinforcement learning for microgrid energy management](https://ieeexplore.ieee.org/abstract/document/10795439)
+- [Real-time optimal power flow method via safe deep reinforcement learning based on primal-dual and prior knowledge guidance](https://ieeexplore.ieee.org/abstract/document/10510660)
+- [Feasibility constrained online calculation for real-time optimal power flow: A convex constrained deep reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/9944164)
 - [Improved proximal policy optimization algorithm for sequential security-constrained optimal power flow based on expert knowledge and safety layer](https://ieeexplore.ieee.org/abstract/document/10316539/)
-- [Networked multiagent-based safe reinforcement learning for low-carbon demand management in distribution networks](https://ieeexplore.ieee.org/abstract/document/10402056/?casa_token=MepMZMUsA3QAAAAA:lJUWkUlEYZwm0tQoaZdRG5td_B6YGWSYmowlhCD-DgyfvD8aIqQzlEfJX-EZ8m9nmhLdjpHDpw)
+- [Networked multiagent-based safe reinforcement learning for low-carbon demand management in distribution networks](https://ieeexplore.ieee.org/abstract/document/10402056)
 - [Optimal energy system scheduling using a constraint-aware reinforcement learning algorithm](https://www.sciencedirect.com/science/article/pii/S0142061523002879)
-- [Real-time optimal power flow with linguistic stipulations: Integrating GPT-agent and deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10339881/?casa_token=wW6sFluSf14AAAAA:9GXNCpVoOMn3Usw1SZNyh5PZuIQJmX9h7W2I17ptKACAMaEjdm2GYu1h4K-gttC4EalMakCW-w)
-- [Real-time optimal power flow: A Lagrangian based deep reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/9069289/?casa_token=fE7a-o9qpd8AAAAA:MjFu8muUoToo1xbcrFz_g91IITLBdEO9gkOa0R3odsXRt6S79oJMpmPOwvRY0E-bdNTJfhos_g)
+- [Real-time optimal power flow with linguistic stipulations: Integrating GPT-agent and deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10339881)
+- [Real-time optimal power flow: A Lagrangian based deep reinforcement learning approach](https://ieeexplore.ieee.org/abstract/document/9069289)
 - [Safe reinforcement learning for multi-energy management systems with known constraint functions](https://www.sciencedirect.com/science/article/pii/S2666546822000738)
 - [Secure energy management of multi-energy microgrid: A physical-informed safe reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S030626192300123X)
-- [Safe multi-agent deep reinforcement learning for decentralized low-carbon operation in active distribution networks and multi-microgrids](https://www.sciencedirect.com/science/article/pii/S0306261925003393?casa_token=IEtnf2pY2HkAAAAA:xqP0PREPFaZPq4a0x8O2y2RjmGvC9vE9rpYYHSwLcEIJX9bdiS8lKdh-jOZOlOWlfdBBpkd45DI)
+- [Safe multi-agent deep reinforcement learning for decentralized low-carbon operation in active distribution networks and multi-microgrids](https://www.sciencedirect.com/science/article/pii/S0306261925003393)
 - [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
+- [Privacy-Enhanced Safe Reinforcement Learning for the Dispatch of a Local Energy Community](https://ieeexplore.ieee.org/abstract/document/10887028)
 
 ##### 3.2.2 System Restoration
 
-- [Deep reinforcement learning from demonstrations to assist service restoration in islanded microgrids](https://ieeexplore.ieee.org/abstract/document/9705112/?casa_token=EvK3AAXgbMMAAAAA:vlzex346jMKNLHESZrebWZFaJzlZC4mnkI8bG-9llI5pF0wXIMXCuGMJuTiapvogLJvAn2jyjQ)
-- [Primal-dual differentiable programming for distribution system critical load restoration](https://ieeexplore.ieee.org/abstract/document/10252454/?casa_token=5xBlEiqEL_4AAAAA:d2qh8Irra5P26x3vOVYuqdVPA8gfKtuzkqjcVPZqrShXGpPpXDFHNgYV-1KLLfUcDe7BeecRNA)
-- [Safe exploration reinforcement learning for load restoration using invalid action masking](https://ieeexplore.ieee.org/abstract/document/10253213/?casa_token=hGPrQXZ3iFIAAAAA:EB9W_WBCApMapQ5l2cPEgXUVVp8eOLl5WOnZlwM6cz2uTJhsbNXyDpt-jHGp39sIuue8oOCqww)
+- [Deep reinforcement learning from demonstrations to assist service restoration in islanded microgrids](https://ieeexplore.ieee.org/abstract/document/9705112)
+- [Primal-dual differentiable programming for distribution system critical load restoration](https://ieeexplore.ieee.org/abstract/document/10252454)
+- [Safe exploration reinforcement learning for load restoration using invalid action masking](https://ieeexplore.ieee.org/abstract/document/10253213)
 
 #### 3.3 Operational Planning
 
 ##### 3.3.1 Unit Commitment
 
-- [Deep reinforcement learning based unit commitment scheduling under load and wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/9968131/?casa_token=pt6o9L3lAHYAAAAA:4OYcKT9214kLYDRRMsHMpMMxUFYJ8O8f07xqXeaen3n6PLCQfRaVY1p7Yx-hqBKD_1vYicjXDQ)
+- [Deep reinforcement learning based unit commitment scheduling under load and wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/9968131)
 - [Risk-based reserve scheduling for active distribution networks based on an improved proximal policy optimization algorithm](https://ieeexplore.ieee.org/abstract/document/9992237/)
 
 ##### 3.3.2 Electricity Market
 
-- [An augmented Lagrangian-based safe reinforcement learning algorithm for carbon-oriented optimal scheduling of EV aggregators](https://ieeexplore.ieee.org/abstract/document/10163488/?casa_token=u0qWUgnIdtcAAAAA:PkQx215XoxRwmSiSYcub7lI7OFxD9dMRCXHLqI9dTYb-OTmPd2NKnbW9-0VCYd6F5AbQ5KFHIA)
-- [A budget-aware incentive mechanism for vehicle-to-grid via reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10188695/?casa_token=2tJ7jI8ueqcAAAAA:SsniR8oP2cM1w0B0SWJZI3h3x_Fxl-LSPXj7SaEH4N-Nb9R8OKBMDZELy9CqIHN5ZcC4SiK3wg)
-- [Dynamic incentive pricing on charging stations for real-time congestion management in distribution network: an adaptive model-based safe deep reinforcement learning method](https://ieeexplore.ieee.org/abstract/document/10298595/?casa_token=38_oIlW2gPUAAAAA:s64GhT0z4rI8lVZyKkBQiY3zMcbbW_k-PYfXQryF7YZZnXccjLw5mv8PZKxz_1cRxFqo801c2A)
-- [SMA-PDPPO: Safe multiagent primal-dual deep reinforcement learning for industrial parks energy trading](https://ieeexplore.ieee.org/abstract/document/10812202/?casa_token=cUG7HwfS9VkAAAAA:2Ne-LhVF8Qw5anzy0OyFRMXEva6JmHm7VzdRiXoW_bjYB2CSzsvTfeFtjbtSyfyapnjm5Bk5HA)
+- [An augmented Lagrangian-based safe reinforcement learning algorithm for carbon-oriented optimal scheduling of EV aggregators](https://ieeexplore.ieee.org/abstract/document/10163488)
+- [A budget-aware incentive mechanism for vehicle-to-grid via reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10188695)
+- [Dynamic incentive pricing on charging stations for real-time congestion management in distribution network: an adaptive model-based safe deep reinforcement learning method](https://ieeexplore.ieee.org/abstract/document/10298595)
+- [SMA-PDPPO: Safe multiagent primal-dual deep reinforcement learning for industrial parks energy trading](https://ieeexplore.ieee.org/abstract/document/10812202)
 
 #### 3.4 Emerging Areas
 
 ##### 3.4.1 EV Charging
 
-- [Network-constrained reinforcement learning for optimal EV charging control](https://ieeexplore.ieee.org/abstract/document/10333926/?casa_token=j5X34wpuOQQAAAAA:1NNw3gpzTZgNQ2wIV2Ci_DDrlEEm_JAfiO_uRg9SUM4x2MKOuRlQvKGSKgzbmBq3p1BgxaX4_A)
-- [Data-driven coordinated charging for electric vehicles with continuous charging rates: A deep policy gradient approach](https://ieeexplore.ieee.org/abstract/document/9653670/?casa_token=ECWKC0IvEMsAAAAA:d3x4sIHLtR1vRfMKsOxqTMo9W2OYlmsgVs4bBRmJ41FX-1w0eN08gk0qZWXPExUXEi3SzOdWuQ)
-- [A deep reinforcement learning-based charging scheduling approach with augmented Lagrangian for electric vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924020890?casa_token=ST_4ElsCgNwAAAAA:es0u10ix2NyPWXNdgVet_Ttru_S9_6qcXIN_14HvEDN5FD1pckaCbLgu4FPc9w2tCLP8cW77aLE)
-- [A safe reinforcement learning-based charging strategy for electric vehicles in residential microgrid](https://www.sciencedirect.com/science/article/pii/S0306261923008541?casa_token=T50RzaTUNSEAAAAA:oaTyctAvkXT0hcC1n2zsJmEPDkGUaaDYpgcWf6lmtxGT4Jp2QB0k3OMut9fwwQ8IZ5TLnEDzI1c)
-- [Constrained EV charging scheduling based on safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8910361/?casa_token=q4ofuVUB7yIAAAAA:CcR0e_4BVh8QZwE6KTycf0u_d1lKf2iAyeVryYDWzGVijvOnUMt71usc7BnaZn-vE0MaSaRjAA)
-- [A deep reinforcement learning-based energy management framework with Lagrangian relaxation for plug-in hybrid electric vehicle](https://ieeexplore.ieee.org/abstract/document/9286514/?casa_token=jFFCHtdiwgoAAAAA:-NWNvxd1Y0ItZwJJ0-dE2-38__WF8sPyyElQzrj_KQPwZn9hv2xvWB0-YvjeF0iq8rXdMM7erQ)
+- [Network-constrained reinforcement learning for optimal EV charging control](https://ieeexplore.ieee.org/abstract/document/10333926)
+- [Data-driven coordinated charging for electric vehicles with continuous charging rates: A deep policy gradient approach](https://ieeexplore.ieee.org/abstract/document/9653670)
+- [A deep reinforcement learning-based charging scheduling approach with augmented Lagrangian for electric vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924020890)
+- [A safe reinforcement learning-based charging strategy for electric vehicles in residential microgrid](https://www.sciencedirect.com/science/article/pii/S0306261923008541)
+- [Constrained EV charging scheduling based on safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8910361)
+- [A deep reinforcement learning-based energy management framework with Lagrangian relaxation for plug-in hybrid electric vehicle](https://ieeexplore.ieee.org/abstract/document/9286514)
 - [Safe deep reinforcement learning hybrid electric vehicle energy management](https://link.springer.com/chapter/10.1007/978-3-030-05453-3_8)
 - [Rule-based shields embedded safe reinforcement learning approach for electric vehicle charging control](https://www.sciencedirect.com/science/article/pii/S014206152400084X)
 
 ##### 3.4.2 Building Energy Management
 
-- [Reinforcement learning with dual safety policies for energy savings in building energy systems](https://www.mdpi.com/2075-5309/13/3/580?utm_campaign=releaseissue_buildingsutm_medium=emailutm_source=releaseissueutm_term=doilink208)
-- [Residual physics and post-posed shielding for safe deep reinforcement learning method](https://ieeexplore.ieee.org/abstract/document/9796122/?casa_token=lwhhziDsBX0AAAAA:9egNyHXBrdmzhlUtBOjbewSLDh42_vW6P2YeHWYcccJfVnxQXo2FwtJe9GMuj9RdiWGsPq8n7w)
-- [Optimal dispatch of an energy hub with compressed air energy storage: A safe reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S2352152X22021363?casa_token=m9t4JIyZH_wAAAAA:vS8lSh3fxAMkGZGt4naWvxf8hTx327EhT3TzfjQoPXCuE-l0H3pofN9N3kO3J1ZzdWXwihvuYqg)
+- [Reinforcement learning with dual safety policies for energy savings in building energy systems](https://www.mdpi.com/2075-5309/13/3/580)
+- [Residual physics and post-posed shielding for safe deep reinforcement learning method](https://ieeexplore.ieee.org/abstract/document/9796122)
+- [Optimal dispatch of an energy hub with compressed air energy storage: A safe reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S2352152X22021363)
 - [A safe reinforcement learning approach for multi-energy management of smart home](https://www.sciencedirect.com/science/article/pii/S0378779622003443)
-- [Deep reinforcement learning for tropical air free-cooled data center control](https://dl.acm.org/doi/abs/10.1145/3439332?casa_token=T6H9zC8WlTsAAAAA:BoAsXf2DFJsOb_aIp1tWziN7vSh0x3NfwA_hzCJq-Vdmrwr2veyIo_J7l0xcqPd6_qczkszhn45zMw)
+- [Deep reinforcement learning for tropical air free-cooled data center control](https://dl.acm.org/doi/abs/10.1145/3439332)
 - [DRL-S: Toward safe real-world learning of dynamic thermal management in data center](https://www.sciencedirect.com/science/article/pii/S0957417422021649)
-- [District cooling system control for providing operating reserve based on safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10019581/?casa_token=ftRsTPAwANIAAAAA:Z_DUiz0sS0avitCB_auWdWtysZ38Fu214FJgtu1W6exT_9-CKnKaOcpvdpr5ArJTfflU32m62g)
-- [Safe building HVAC control via batch reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9748006/?casa_token=h2q7FotcUnsAAAAA:j8Z-hQRIjdjEzCvoNm8eVXQt7aRHrFEJmWqQ_FWAl-Klnw--uLKS-OcoxlzMuM0UWlNkmKFcjQ)
+- [District cooling system control for providing operating reserve based on safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10019581)
+- [Safe building HVAC control via batch reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9748006)
 - [Safe reinforcement learning-based resilient proactive scheduling for a commercial building considering correlated demand response](https://ieeexplore.ieee.org/abstract/document/9371751/)
 - [Safe reinforcement learning for real-time automatic control in a smart energy-hub](https://www.sciencedirect.com/science/article/pii/S030626192101638X)
 - [Energy management based on safe multi-agent reinforcement learning for smart buildings in distribution networks](https://www.sciencedirect.com/science/article/pii/S0378778824005267)
-- [Safe deep reinforcement learning for building energy management](https://www.sciencedirect.com/science/article/pii/S0306261924017112?casa_token=D1v_HbD6KvcAAAAA:dGZmbnZ28XbdvQ-g3iaTnj5WzW3F4K3ZR1BD0yE5WK22SGwfbDh3-3oifSi6svC0FKWkRoakN7w)
+- [Safe deep reinforcement learning for building energy management](https://www.sciencedirect.com/science/article/pii/S0306261924017112)
 - [Green data center cooling control via physics-guided safe reinforcement learning](https://dl.acm.org/doi/abs/10.1145/3582577)
-- [SafeCool: safe and energy-efficient cooling management in data centers with model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10018918/?casa_token=L3hKDZPzpRAAAAAA:gXEiA3VzvVQucjLqH6mxd17UNFu3PRuhpWBCH7aWPDg20D6NkHEpvfqV6QkLSOMaRrtrpO1Ayw)
-- [Toward model-assisted safe reinforcement learning for data center cooling control: A lyapunov-based approach](https://dl.acm.org/doi/abs/10.1145/3575813.3597343)
+- [SafeCool: safe and energy-efficient cooling management in data centers with model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10018918)
+- [Toward model-assisted safe reinforcement learning for data center cooling control: A Lyapunov-based approach](https://dl.acm.org/doi/abs/10.1145/3575813.3597343)
 
 ### 4 Real-World Deployment Cases
 
