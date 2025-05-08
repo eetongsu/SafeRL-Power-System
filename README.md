@@ -191,6 +191,7 @@ The README is organized as follows:
 - [Safe reinforcement learning for multi-energy management systems with known constraint functions](https://www.sciencedirect.com/science/article/pii/S2666546822000738)
 - [Secure energy management of multi-energy microgrid: A physical-informed safe reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S030626192300123X)
 - [Safe multi-agent deep reinforcement learning for decentralized low-carbon operation in active distribution networks and multi-microgrids](https://www.sciencedirect.com/science/article/pii/S0306261925003393?casa_token=IEtnf2pY2HkAAAAA:xqP0PREPFaZPq4a0x8O2y2RjmGvC9vE9rpYYHSwLcEIJX9bdiS8lKdh-jOZOlOWlfdBBpkd45DI)
+- [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
 
 ##### 3.2.2 System Restoration
 
