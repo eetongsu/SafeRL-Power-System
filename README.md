@@ -192,7 +192,7 @@ The README is organized as follows:
 - [Secure energy management of multi-energy microgrid: A physical-informed safe reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S030626192300123X)
 - [Safe multi-agent deep reinforcement learning for decentralized low-carbon operation in active distribution networks and multi-microgrids](https://www.sciencedirect.com/science/article/pii/S0306261925003393)
 - [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
-- [Privacy-Enhanced Safe Reinforcement Learning for the Dispatch of a Local Energy Community](https://ieeexplore.ieee.org/abstract/document/10887028)
+- [Privacy-enhanced safe reinforcement learning for the dispatch of a local energy community](https://ieeexplore.ieee.org/abstract/document/10887028)
 - [Carbon cap based multi-energy sharing among heterogeneous microgrids using multi-agent safe reinforcement learning method with credit assignment and sequential update](https://www.sciencedirect.com/science/article/abs/pii/S0306261925007482)
 - [RL2: Reinforce large language model to assist safe reinforcement learning for energy management of active distribution networks](https://arxiv.org/abs/2412.01303)
 
