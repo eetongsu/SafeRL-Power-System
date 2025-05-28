@@ -244,7 +244,7 @@ The README is organized as follows:
 - [Energy management based on safe multi-agent reinforcement learning for smart buildings in distribution networks](https://www.sciencedirect.com/science/article/pii/S0378778824005267)
 - [Safe deep reinforcement learning for building energy management](https://www.sciencedirect.com/science/article/pii/S0306261924017112)
 - [Green data center cooling control via physics-guided safe reinforcement learning](https://dl.acm.org/doi/abs/10.1145/3582577)
-- [SafeCool: safe and energy-efficient cooling management in data centers with model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10018918)
+- [SafeCool: Safe and energy-efficient cooling management in data centers with model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10018918)
 - [Toward model-assisted safe reinforcement learning for data center cooling control: A Lyapunov-based approach](https://dl.acm.org/doi/abs/10.1145/3575813.3597343)
 
 ### 4 Real-World Deployment Cases
