@@ -196,6 +196,7 @@ The README is organized as follows:
 - [Carbon cap based multi-energy sharing among heterogeneous microgrids using multi-agent safe reinforcement learning method with credit assignment and sequential update](https://www.sciencedirect.com/science/article/abs/pii/S0306261925007482)
 - [RL2: Reinforce large language model to assist safe reinforcement learning for energy management of active distribution networks](https://arxiv.org/abs/2412.01303)
 - [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
+- [Multi-agent safe reinforcement learning based distributed optimal dispatch for active distribution network with incomplete information](https://ieeexplore.ieee.org/abstract/document/10838231)
 
 ##### 3.2.2 System Restoration
 
