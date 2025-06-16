@@ -145,6 +145,7 @@ The README is organized as follows:
 - [Three-stage inverter-based peak shaving and Volt-VAR control in active distribution networks using online safe deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9754695/)
 - [Safety deep reinforcement learning approach to voltage control in flexible network topologies](https://ieeexplore.ieee.org/abstract/document/10595220/)
 - [Explicit reinforcement learning safety layer for computationally efficient inverter-based voltage regulation](https://ieeexplore.ieee.org/abstract/document/10156201/)
+- [Multi-agent primal dual DDPG based reactive power optimization of active distribution networks via graph reinforcement learning](https://ieeexplore.ieee.org/abstract/document/11020718)
 
 ##### 3.1.2 Stability Control
 
@@ -212,7 +213,7 @@ The README is organized as follows:
 
 - [Deep reinforcement learning based unit commitment scheduling under load and wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/9968131)
 - [Risk-based reserve scheduling for active distribution networks based on an improved proximal policy optimization algorithm](https://ieeexplore.ieee.org/abstract/document/9992237/)
-- [Soft actor-critic combined with logic-based benders decomposition algorithm for monthly security constrained unit commitment under wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/11021394)
+- [Soft actor-critic combined with logic-based Benders decomposition algorithm for monthly security constrained unit commitment under wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/11021394)
 
 ##### 3.3.2 Electricity Market
 
