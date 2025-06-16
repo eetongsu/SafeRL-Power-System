@@ -198,6 +198,7 @@ The README is organized as follows:
 - [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
 - [Multi-agent safe reinforcement learning based distributed optimal dispatch for active distribution network with incomplete information](https://ieeexplore.ieee.org/abstract/document/10838231)
 - [Deep reinforcement learning approach for dynamic distribution network reconfiguration based on sequential masking](https://ieeexplore.ieee.org/abstract/document/11030288)
+- [Knowledge-augmented population-based deep reinforcement learning for real-time network-constrained economic dispatch of large-scale power grid](https://ieeexplore.ieee.org/abstract/document/11027791)
 
 ##### 3.2.2 System Restoration
 
@@ -211,6 +212,7 @@ The README is organized as follows:
 
 - [Deep reinforcement learning based unit commitment scheduling under load and wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/9968131)
 - [Risk-based reserve scheduling for active distribution networks based on an improved proximal policy optimization algorithm](https://ieeexplore.ieee.org/abstract/document/9992237/)
+- [Soft actor-critic combined with logic-based benders decomposition algorithm for monthly security constrained unit commitment under wind power uncertainty](https://ieeexplore.ieee.org/abstract/document/11021394)
 
 ##### 3.3.2 Electricity Market
 
