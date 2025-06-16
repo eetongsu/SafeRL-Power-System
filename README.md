@@ -197,6 +197,7 @@ The README is organized as follows:
 - [RL2: Reinforce large language model to assist safe reinforcement learning for energy management of active distribution networks](https://arxiv.org/abs/2412.01303)
 - [Active sensitivity coefficient-guided reinforcement learning for power grid real-time dispatching](https://www.sciencedirect.com/science/article/abs/pii/S0378779624011532)
 - [Multi-agent safe reinforcement learning based distributed optimal dispatch for active distribution network with incomplete information](https://ieeexplore.ieee.org/abstract/document/10838231)
+- [Deep reinforcement learning approach for dynamic distribution network reconfiguration based on sequential masking](https://ieeexplore.ieee.org/abstract/document/11030288)
 
 ##### 3.2.2 System Restoration
 
