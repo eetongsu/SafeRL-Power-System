@@ -200,6 +200,7 @@ The README is organized as follows:
 - [Multi-agent safe reinforcement learning based distributed optimal dispatch for active distribution network with incomplete information](https://ieeexplore.ieee.org/abstract/document/10838231)
 - [Deep reinforcement learning approach for dynamic distribution network reconfiguration based on sequential masking](https://ieeexplore.ieee.org/abstract/document/11030288)
 - [Knowledge-augmented population-based deep reinforcement learning for real-time network-constrained economic dispatch of large-scale power grid](https://ieeexplore.ieee.org/abstract/document/11027791)
+- [A robust safe reinforcement learning-based operation method for hybrid electric-hydrogen energy system risk-based dispatch considering dynamic efficiency characteristics of electrolysers](https://www.sciencedirect.com/science/article/abs/pii/S0960148125014235)
 
 ##### 3.2.2 System Restoration
 
