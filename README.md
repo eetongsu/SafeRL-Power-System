@@ -146,6 +146,7 @@ The README is organized as follows:
 - [Safety deep reinforcement learning approach to voltage control in flexible network topologies](https://ieeexplore.ieee.org/abstract/document/10595220/)
 - [Explicit reinforcement learning safety layer for computationally efficient inverter-based voltage regulation](https://ieeexplore.ieee.org/abstract/document/10156201/)
 - [Multi-agent primal dual DDPG based reactive power optimization of active distribution networks via graph reinforcement learning](https://ieeexplore.ieee.org/abstract/document/11020718)
+- [Human-in-the-loop reinforcement learning method for Volt/Var control in active distribution network with safe operation mechanism](https://ieeexplore.ieee.org/abstract/document/11045109)
 
 ##### 3.1.2 Stability Control
 
