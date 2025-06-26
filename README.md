@@ -266,7 +266,7 @@ The README is organized as follows:
 If you find the repository useful, please cite the [paper](https://arxiv.org/abs/2407.00304):
 
 ```
-@article{su2024review,
+@article{su2025review,
   title={A review of safe reinforcement learning methods for modern power systems},
   author={Su, Tong and Wu, Tong and Zhao, Junbo and Scaglione, Anna and Xie, Le},
   journal={Proceedings of the IEEE},
