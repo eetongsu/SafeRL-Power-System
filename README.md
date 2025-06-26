@@ -269,6 +269,12 @@ If you find the repository useful, please cite the [paper](https://arxiv.org/abs
 @article{su2024review,
   title={A review of safe reinforcement learning methods for modern power systems},
   author={Su, Tong and Wu, Tong and Zhao, Junbo and Scaglione, Anna and Xie, Le},
+  journal={Proceedings of the IEEE},
+  year={2025}
+}
+@article{su2024review,
+  title={A review of safe reinforcement learning methods for modern power systems},
+  author={Su, Tong and Wu, Tong and Zhao, Junbo and Scaglione, Anna and Xie, Le},
   journal={arXiv preprint arXiv:2407.00304},
   year={2024}
 }
