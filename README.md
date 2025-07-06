@@ -166,6 +166,7 @@ The README is organized as follows:
 - [Recurrent neural network controllers synthesis with stability guarantees for partially observed systems](https://ojs.aaai.org/index.php/AAAI/article/view/20476)
 - [A barrier-certificated reinforcement learning approach for enhancing power system transient stability](https://ieeexplore.ieee.org/abstract/document/10005839/)
 - [Reinforcement learning for stability-guaranteed adaptive optimal primary frequency control of power systems using partially monotonic neural networks](https://ieeexplore.ieee.org/abstract/document/10947581/)
+- [A Benders-combined safe reinforcement learning framework for risk-averse dispatch considering frequency security constraints](https://ieeexplore.ieee.org/abstract/document/11062567)
 
 #### 3.2 Real-Time Operation
 
