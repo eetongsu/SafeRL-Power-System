@@ -167,6 +167,7 @@ The README is organized as follows:
 - [A barrier-certificated reinforcement learning approach for enhancing power system transient stability](https://ieeexplore.ieee.org/abstract/document/10005839/)
 - [Reinforcement learning for stability-guaranteed adaptive optimal primary frequency control of power systems using partially monotonic neural networks](https://ieeexplore.ieee.org/abstract/document/10947581/)
 - [A Benders-combined safe reinforcement learning framework for risk-averse dispatch considering frequency security constraints](https://ieeexplore.ieee.org/abstract/document/11062567)
+- [Safe reinforcement learning-based transient stability control for islanded microgrids with topology reconfiguration](https://ieeexplore.ieee.org/document/11003897)
 
 #### 3.2 Real-Time Operation
 
