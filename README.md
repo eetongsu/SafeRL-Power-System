@@ -266,16 +266,17 @@ The README is organized as follows:
 ## Publication
 
 If you find the repository useful, please cite the paper:
-
-```
 [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/11074719):
+```
 @article{su2025review,
   title={A review of safe reinforcement learning methods for modern power systems},
   author={Su, Tong and Wu, Tong and Zhao, Junbo and Scaglione, Anna and Xie, Le},
   journal={Proceedings of the IEEE},
   year={2025}
 }
+```
 [Arxiv](https://arxiv.org/abs/2407.00304):
+```
 @article{su2024review,
   title={A review of safe reinforcement learning methods for modern power systems},
   author={Su, Tong and Wu, Tong and Zhao, Junbo and Scaglione, Anna and Xie, Le},
