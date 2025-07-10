@@ -265,7 +265,7 @@ The README is organized as follows:
 
 ## Publication
 
-If you find the repository useful, please cite the paper ([Proceedings of the IEEE](https://ieeexplore.ieee.org/document/11074719) [Arxiv](https://arxiv.org/abs/2407.00304)):
+If you find the repository useful, please cite the paper ([Proceedings of the IEEE](https://ieeexplore.ieee.org/document/11074719), [Arxiv](https://arxiv.org/abs/2407.00304)):
 
 ```
 @article{su2025review,
