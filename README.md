@@ -225,6 +225,7 @@ The README is organized as follows:
 - [A budget-aware incentive mechanism for vehicle-to-grid via reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10188695)
 - [Dynamic incentive pricing on charging stations for real-time congestion management in distribution network: an adaptive model-based safe deep reinforcement learning method](https://ieeexplore.ieee.org/abstract/document/10298595)
 - [SMA-PDPPO: Safe multiagent primal-dual deep reinforcement learning for industrial parks energy trading](https://ieeexplore.ieee.org/abstract/document/10812202)
+- [Network-constrained P2P trading: A safety-aware decentralized multi-agent reinforcement learning approach](https://ieeexplore.ieee.org/document/11087389)
 
 #### 3.4 Emerging Areas
 
