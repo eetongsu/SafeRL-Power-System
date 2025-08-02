@@ -239,6 +239,7 @@ The README is organized as follows:
 - [A deep reinforcement learning-based energy management framework with Lagrangian relaxation for plug-in hybrid electric vehicle](https://ieeexplore.ieee.org/abstract/document/9286514)
 - [Safe deep reinforcement learning hybrid electric vehicle energy management](https://link.springer.com/chapter/10.1007/978-3-030-05453-3_8)
 - [Rule-based shields embedded safe reinforcement learning approach for electric vehicle charging control](https://www.sciencedirect.com/science/article/pii/S014206152400084X)
+- [Safe-AutoSAC: AutoML-enhanced safe deep reinforcement learning for integrated energy system scheduling with multi-channel informer forecasting and electric vehicle demand response](https://www.sciencedirect.com/science/article/abs/pii/S0306261925011985)
 
 ##### 3.4.2 Building Energy Management
 
