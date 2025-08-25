@@ -205,6 +205,7 @@ The README is organized as follows:
 - [Deep reinforcement learning approach for dynamic distribution network reconfiguration based on sequential masking](https://ieeexplore.ieee.org/abstract/document/11030288)
 - [Knowledge-augmented population-based deep reinforcement learning for real-time network-constrained economic dispatch of large-scale power grid](https://ieeexplore.ieee.org/abstract/document/11027791)
 - [A robust safe reinforcement learning-based operation method for hybrid electric-hydrogen energy system risk-based dispatch considering dynamic efficiency characteristics of electrolysers](https://www.sciencedirect.com/science/article/abs/pii/S0960148125014235)
+- [Coordinated operation of multi-energy microgrids considering green hydrogen and congestion management via a safe policy learning approach](https://www.sciencedirect.com/science/article/pii/S0306261925013418)
 
 ##### 3.2.2 System Restoration
 
