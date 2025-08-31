@@ -212,6 +212,7 @@ The README is organized as follows:
 - [Deep reinforcement learning from demonstrations to assist service restoration in islanded microgrids](https://ieeexplore.ieee.org/abstract/document/9705112)
 - [Primal-dual differentiable programming for distribution system critical load restoration](https://ieeexplore.ieee.org/abstract/document/10252454)
 - [Safe exploration reinforcement learning for load restoration using invalid action masking](https://ieeexplore.ieee.org/abstract/document/10253213)
+- [Safe deep reinforcement learning for resilient self-proactive distribution grids against wildfires](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142361)
 
 #### 3.3 Operational Planning
 
