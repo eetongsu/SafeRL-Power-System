@@ -279,7 +279,11 @@ If you find the repository useful, please cite the paper:
   title={A review of safe reinforcement learning methods for modern power systems},
   author={Su, Tong and Wu, Tong and Zhao, Junbo and Scaglione, Anna and Xie, Le},
   journal={Proceedings of the IEEE},
-  year={2025}
+  year={2025},
+  volume={113},
+  number={3},
+  pages={213-255},
+  doi={10.1109/JPROC.2025.3584656}
 }
 ```
 [Arxiv](https://arxiv.org/abs/2407.00304):
