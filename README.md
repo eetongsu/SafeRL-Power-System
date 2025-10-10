@@ -208,6 +208,7 @@ The README is organized as follows:
 - [Coordinated operation of multi-energy microgrids considering green hydrogen and congestion management via a safe policy learning approach](https://www.sciencedirect.com/science/article/pii/S0306261925013418)
 - [Physics-shielded deep reinforcement learning for safe energy management of microgrids with battery health consideration](https://www.sciencedirect.com/science/article/pii/S0016003225006040)
 - [Distributed robust dispatch for networked microgrids with coalition game-guided multiagent adversarial safe reinforcement learning](https://ieeexplore.ieee.org/abstract/document/11192737)
+- [A safe combined reinforcement learning and model predictive control scheme for utility-level battery control in distribution grids](https://ieeexplore.ieee.org/abstract/document/11193800)
 
 ##### 3.2.2 System Restoration
 
