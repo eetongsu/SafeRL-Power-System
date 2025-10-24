@@ -209,6 +209,7 @@ The README is organized as follows:
 - [Physics-shielded deep reinforcement learning for safe energy management of microgrids with battery health consideration](https://www.sciencedirect.com/science/article/pii/S0016003225006040)
 - [Distributed robust dispatch for networked microgrids with coalition game-guided multiagent adversarial safe reinforcement learning](https://ieeexplore.ieee.org/abstract/document/11192737)
 - [A safe combined reinforcement learning and model predictive control scheme for utility-level battery control in distribution grids](https://ieeexplore.ieee.org/abstract/document/11193800)
+- [Shield-enhanced safe reinforcement learning control for wave energy converters](https://www.sciencedirect.com/science/article/pii/S0360544225045256)
 
 ##### 3.2.2 System Restoration
 
