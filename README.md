@@ -70,7 +70,7 @@ The README is organized as follows:
 - [A review of safe reinforcement learning: Methods, theories and applications](https://ieeexplore.ieee.org/abstract/document/10675394/?casa_token=Q9b8DqdGIAQAAAAA:SsfuqUQFEdVttZf65gOfzM77lwbN9siTrafeEl9HhFdKB32kmNgQmfMtWL4QUPkdBauocSRwjA)
 - [A comprehensive survey on safe reinforcement learning](https://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf)
 - [State-wise safe reinforcement learning: A survey](https://arxiv.org/abs/2302.03122)
-- [Safe reinforcement learning: A survey](http://www.aas.net.cn/article/doi/10.16383/j.aas.c220631)
+- [安全强化学习综述 (Safe reinforcement learning: A survey)](http://www.aas.net.cn/article/doi/10.16383/j.aas.c220631)
 
 ### 2. Benchmark Environments, Algorithms, and Software
 
