@@ -212,6 +212,7 @@ The README is organized as follows:
 - [A safe combined reinforcement learning and model predictive control scheme for utility-level battery control in distribution grids](https://ieeexplore.ieee.org/abstract/document/11193800)
 - [Shield-enhanced safe reinforcement learning control for wave energy converters](https://www.sciencedirect.com/science/article/pii/S0360544225045256)
 - [Safe deep reinforcement learning for active distribution system model predictive control with EVs and DERs](https://ieeexplore.ieee.org/abstract/document/11348095)
+- [A framework for safe reinforcement learning in battery storage scheduling under partial observability](https://ieeexplore.ieee.org/abstract/document/11503103)
 
 ##### 3.2.2 System Restoration
 
