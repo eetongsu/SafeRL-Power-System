@@ -252,6 +252,7 @@ The README is organized as follows:
 - [Rule-based shields embedded safe reinforcement learning approach for electric vehicle charging control](https://www.sciencedirect.com/science/article/pii/S014206152400084X)
 - [Safe-AutoSAC: AutoML-enhanced safe deep reinforcement learning for integrated energy system scheduling with multi-channel informer forecasting and electric vehicle demand response](https://www.sciencedirect.com/science/article/abs/pii/S0306261925011985)
 - [Model-free safe deep reinforcement learning for grid-to-vehicle management considering grid constraints and transformer thermal stress](https://www.sciencedirect.com/science/article/pii/S0952197625025606)
+- [Hybrid safe deep reinforcement learning based electric vehicle fleet charging management considering thermal loading and aging of power transformer](https://ieeexplore.ieee.org/abstract/document/11511450)
 
 ##### 3.4.2 Building Energy Management
 
