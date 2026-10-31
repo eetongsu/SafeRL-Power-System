@@ -148,6 +148,7 @@ The README is organized as follows:
 - [Multi-agent primal dual DDPG based reactive power optimization of active distribution networks via graph reinforcement learning](https://ieeexplore.ieee.org/abstract/document/11020718)
 - [Human-in-the-loop reinforcement learning method for Volt/Var control in active distribution network with safe operation mechanism](https://ieeexplore.ieee.org/abstract/document/11045109)
 - [Safe multi-critic reinforcement learning framework for coordinated energy management and voltage regulation in active distribution networks](https://www.sciencedirect.com/science/article/pii/S2352467726000615)
+- [Foresight-enhanced adaptive safe hierarchical reinforcement learning for real-time voltage regulation in active distribution networks](https://doi.org/10.1109/TSG.2026.3740287)
 
 ##### 3.1.2 Stability Control
 
@@ -171,6 +172,8 @@ The README is organized as follows:
 - [Safe reinforcement learning-based transient stability control for islanded microgrids with topology reconfiguration](https://ieeexplore.ieee.org/document/11003897)
 - [Knowledge-GPT guided generalizable reinforcement learning for intelligent emergency generator tripping in power system](https://ieeexplore.ieee.org/document/11130587)
 - [Physics-augmented safe reinforcement learning for overload mitigation in distribution networks under weather-sensitive thermal constraints](https://doi.org/10.1016/j.apenergy.2026.127752)
+- [Guide policy-enabled safe reinforcement learning for coordinated frequency control in low-inertia grids with inverter interface resources](https://doi.org/10.1109/TII.2026.3704159)
+- [Physics-informed reinforcement learning for coordinated real-time frequency control of grid-forming energy storage in low-inertia microgrids](https://doi.org/10.1109/TSTE.2026.3725711)
 
 #### 3.2 Real-Time Operation
 
@@ -219,6 +222,9 @@ The README is organized as follows:
 - [Safe deep reinforcement learning-assisted two-stage energy management for active power distribution networks with hydrogen fueling stations](https://doi.org/10.1016/j.apenergy.2024.124170)
 - [Safe and efficient dispatch of integrated electricity-hydrogen systems via robust constrained reinforcement learning with adversarial training](https://doi.org/10.1016/j.energy.2025.139876)
 - [A knowledge-based safe reinforcement learning approach for real-time automatic control in a smart energy hub](https://doi.org/10.1016/j.energy.2025.139569)
+- [Physics-informed graph-based safe RL with constraint-specific critics for community battery coordination in distribution network](https://doi.org/10.1109/TSG.2026.3736659)
+- [An online safety-aware deep reinforcement learning-based method for flexible support of distributed energy resources in distribution networks](https://doi.org/10.1016/j.apenergy.2026.128577)
+- [Domain knowledge embedded constrained reinforcement learning for scheduling of renewable energy power system](https://doi.org/10.1016/j.apenergy.2026.127621)
 
 ##### 3.2.2 System Restoration
 
@@ -227,6 +233,7 @@ The README is organized as follows:
 - [Safe exploration reinforcement learning for load restoration using invalid action masking](https://ieeexplore.ieee.org/abstract/document/10253213)
 - [Safe deep reinforcement learning for resilient self-proactive distribution grids against wildfires](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142361)
 - [Safe deep reinforcement learning for robust frequency and voltage-constrained networked microgrid restoration](https://ieeexplore.ieee.org/abstract/document/11219293)
+- [Toward resilient distribution system via microgrid formation: A safe hierarchical hybrid reinforcement learning approach](https://doi.org/10.1016/j.apenergy.2026.128001)
 
 #### 3.3 Operational Planning
 
@@ -281,6 +288,8 @@ The README is organized as follows:
 - [SafeCool: Safe and energy-efficient cooling management in data centers with model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10018918)
 - [Toward model-assisted safe reinforcement learning for data center cooling control: A Lyapunov-based approach](https://dl.acm.org/doi/abs/10.1145/3575813.3597343)
 - [A novel safe multi-agent deep reinforcement learning-based method for smart building energy management](https://doi.org/10.1016/j.enbuild.2025.116256)
+- [Safe mean-field reinforcement learning for cooperative control of large-scale multi-zone HVAC systems](https://doi.org/10.1016/j.enbuild.2026.118353)
+- [Online hierarchical MPC–RL control for building heating without historical operating data](https://doi.org/10.1016/j.energy.2026.141769)
 
 ### 4 Real-World Deployment Cases
 
